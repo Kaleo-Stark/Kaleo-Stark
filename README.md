@@ -2,7 +2,7 @@
 
 Me chamo Kaleo
 
-Atualmente trabalho como estagiário fullstack desenvolvendo sistemas e aplicativos voltado para a área de saúde, sou Técnico em Informática pela ETEC de Embu e Designer pela Saga - Escola de Computação Gráfica.
+Atualmente trabalho como estagiário fullstack desenvolvendo sistemas web e aplicativos voltado para a área de saúde, sou Técnico em Informática pela ETEC de Embu e Designer pela Saga - Escola de Computação Gráfica.
 
 ### 🛠️ Tecnologias 
 
