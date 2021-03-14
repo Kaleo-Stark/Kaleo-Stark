@@ -2,7 +2,9 @@
 
 Me chamo Kaleo
 
-Atualmente trabalho como estagiário fullstack desenvolvendo sistemas web e aplicativos voltado para a área de saúde, sou Técnico em Informática pela ETEC de Embu e Designer pela Saga - Escola de Computação Gráfica.
+Atualmente trabalho na Wecare Gestão em Saúde, uma empresa voltada para a área de Health Care, onde atuo no desenvolvimento de ponta a ponta de sistemas Web com as tecnologias Angular, Ionic, PHP, MySQL e Google Cloud.
+
+Iniciei o ensino superior em 2021 na FECAF – Faculdade Capital Federal, no curso de Análise e Desenvolvimento de Sistemas, em 2019 me formei em Técnico em Informática na Escola Técnica de Embu das Artes (ETEC de Embu), em 2020 cursei Design na SAGA Escola de Computação Gráfica.
 
 ### 🛠️ Tecnologias 
 
